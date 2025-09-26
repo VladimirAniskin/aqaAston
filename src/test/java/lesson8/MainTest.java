@@ -1,4 +1,4 @@
-package postmanTest;
+package lesson8;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
@@ -14,7 +14,7 @@ import static org.testng.Assert.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PostmanEchoRequestMethodsTest {
+public class MainTest {
 
   @BeforeClass
   public void setUp() {
